@@ -1,0 +1,3 @@
+Hello, GitHub!
+这是第一次 Git 实习：从本地仓库 Commit 并 Push 到 GitHub。
+更新：已完成连接远程仓库的练习。
